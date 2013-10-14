@@ -9,12 +9,12 @@
     <parent>
         <groupId>org.liquibase</groupId>
         <artifactId>liquibase-parent</artifactId>
-	    <version>3.0.6-patch-SNAPSHOT</version>
+	    <version>3.0.6-patch-1</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
     <properties>
-	    <liquibase.version>3.0.6-patch-SNAPSHOT</liquibase.version>
+	    <liquibase.version>3.0.6-patch-1</liquibase.version>
     </properties>
 
     <dependencies>
